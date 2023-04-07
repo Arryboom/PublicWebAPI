@@ -460,3 +460,12 @@ stun:stun.voipstunt.com
 stun:stun.voxgratia.org
 stun:stun.xten.com
 ```
+
+
+
+
+
+
+###timestamp
+
+http://api.m.taobao.com/rest/api3.do?api=mtop.common.getTimestamp
